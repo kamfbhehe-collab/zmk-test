@@ -7,11 +7,11 @@
 
         layer_0 {
             bindings = <
-&kp ESC  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
-&none    &none         &none         &none         &none  &none  &none         &none  &none  &none  &none  &none  &none  &none  &none
-&none    &none         &none         &none         &none  &none                &none  &none  &none  &none  &none  &none  &none
-&none    &none         &none         &none         &none  &none         &none  &none  &none  &none  &none  &none  &none  &none
-         &none         &none         &none         &none  &none  &none         &none  &none  &none  &none
+&kp ESC  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
+&none    &none         &none         &none         &none         &none  &none         &none  &none  &none  &none  &none  &none  &none  &none
+&none    &none         &none         &none         &none         &none                &none  &none  &none  &none  &none  &none  &none
+&none    &none         &none         &none         &none         &none         &none  &none  &none  &none  &none  &none  &none  &none
+         &none         &none         &none         &none         &none  &none         &none  &none  &none  &none
             >;
         };
 
